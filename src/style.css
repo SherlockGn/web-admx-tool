@@ -1,0 +1,13 @@
+.el-notification {
+    width: 500px !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.router-link {
+    text-decoration: none;
+    color: inherit;
+}
